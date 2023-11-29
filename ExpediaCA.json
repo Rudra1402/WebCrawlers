@@ -1,0 +1,48 @@
+{
+  "Windsor, Nova Scotia, Canada": [
+    {
+      "name": "Slumber Inn",
+      "stars5Rating": "3.5 star property",
+      "location": "Windsor, Nova Scotia, Canada",
+      "reviewScore": "8.4",
+      "reviewMessage": "Very good",
+      "numberOfReviews": "600 reviews",
+      "rooms": [
+        {
+          "roomDesc": "View all photos for Room, 2 Twin Beds",
+          "pricePerRoomPerNight": "CA $186",
+          "priceWithTax": "CA $1,283 total",
+          "roomFacilities": [
+            "Free WiFi",
+            "Free breakfast",
+            "Free self parking",
+            "Sleeps 3",
+            "205 sq ft",
+            "2 Twin Beds"
+          ]
+        },
+        {
+          "roomDesc": "View all photos for Room, 1 Queen Bed",
+          "pricePerRoomPerNight": "Not found!",
+          "priceWithTax": "Not found!",
+          "roomFacilities": [
+            "Free WiFi",
+            "Free breakfast",
+            "Free self parking",
+            "Sleeps 3",
+            "205 sq ft",
+            "1 Queen Bed"
+          ]
+        }
+      ],
+      "amenities": [
+        "Pet-friendly",
+        "Breakfast included",
+        "Parking included",
+        "Air conditioning",
+        "Free WiFi",
+        "Housekeeping"
+      ]
+    }
+  ]
+}

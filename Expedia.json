@@ -1,0 +1,64 @@
+{
+  "Hamilton, Ontario, Canada": [
+    {
+      "name": "Visitors Inn",
+      "stars5Rating": "3.5 star property",
+      "location": "Hamilton, Ontario, Canada",
+      "reviewScore": "9.2",
+      "reviewMessage": "Wonderful",
+      "numberOfReviews": "1,003 reviews",
+      "rooms": [
+        {
+          "roomDesc": "View all photos for Superior Room, 2 Queen Beds, Kitchenette",
+          "pricePerRoomPerNight": "CA $196",
+          "priceWithTax": "CA $1,847 total",
+          "roomFacilities": [
+            "Reserve now, pay later",
+            "Free WiFi",
+            "Free self parking",
+            "Sleeps 4",
+            "323 sq ft",
+            "2 Queen Beds"
+          ]
+        },
+        {
+          "roomDesc": "View all photos for Deluxe Room, 2 Queen Beds",
+          "pricePerRoomPerNight": "Not found!",
+          "priceWithTax": "Not found!",
+          "roomFacilities": [
+            "Free WiFi",
+            "Free self parking",
+            "Sleeps 4",
+            "323 sq ft",
+            "2 Queen Beds"
+          ]
+        }
+      ],
+      "amenities": [
+        "Breakfast available",
+        "Pool",
+        "Parking included",
+        "Free WiFi",
+        "Hot tub",
+        "Gym"
+      ]
+    },
+    {
+      "name": "Motel 6 Burlington, ON - Toronto West - Oakville",
+      "stars5Rating": "2.0 star property",
+      "location": "Hamilton, Ontario, Canada",
+      "reviewScore": "7.0",
+      "reviewMessage": "Good",
+      "numberOfReviews": "1,003 reviews",
+      "rooms": [],
+      "amenities": [
+        "Pet-friendly",
+        "Parking included",
+        "Free WiFi",
+        "Air conditioning",
+        "Laundry",
+        "24/7 front desk"
+      ]
+    }
+  ]
+}

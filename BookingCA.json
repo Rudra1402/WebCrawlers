@@ -1,0 +1,95 @@
+{
+  "Windsor, Nova Scotia, Canada": [
+    {
+      "name": "The August House",
+      "stars5Rating": "Not found!",
+      "location": "Windsor, Nova Scotia, Canada",
+      "reviewScore": "9.4",
+      "reviewMessage": "Wonderful",
+      "numberOfReviews": "44 reviews",
+      "rooms": [
+        {
+          "roomDesc": "Queen Room",
+          "pricePerRoomPerNight": "Not found!",
+          "priceWithTax": "Not found!",
+          "roomFacilities": [
+            "1 room",
+            "20 m²",
+            "Air conditioning",
+            "Attached bathroom",
+            "Free WiFi",
+            "More"
+          ]
+        }
+      ],
+      "amenities": [
+        "Non-smoking rooms",
+        "Free WiFi",
+        "Free parking",
+        "Breakfast"
+      ]
+    },
+    {
+      "name": "Evangeline",
+      "stars5Rating": "4",
+      "location": "Windsor, Nova Scotia, Canada",
+      "reviewScore": "9.0",
+      "reviewMessage": "Wonderful",
+      "numberOfReviews": "3 reviews",
+      "rooms": [
+        {
+          "roomDesc": "Deluxe King Room",
+          "pricePerRoomPerNight": "Not found!",
+          "priceWithTax": "Not found!",
+          "roomFacilities": [
+            "1 room",
+            "Garden view",
+            "Bathtub",
+            "Air conditioning",
+            "Private Bathroom",
+            "Flat-screen TV",
+            "Free WiFi",
+            "More"
+          ]
+        }
+      ],
+      "amenities": [
+        "Indoor swimming pool",
+        "Non-smoking rooms",
+        "Free WiFi",
+        "Restaurant",
+        "Free parking",
+        "Family rooms",
+        "Bar"
+      ]
+    },
+    {
+      "name": "Old Orchard Inn",
+      "stars5Rating": "4",
+      "location": "Windsor, Nova Scotia, Canada",
+      "reviewScore": "7.4",
+      "reviewMessage": "Good",
+      "numberOfReviews": "436 reviews",
+      "rooms": [
+        {
+          "roomDesc": "Superior King Room",
+          "pricePerRoomPerNight": "804",
+          "priceWithTax": "CAD 942",
+          "roomFacilities": []
+        }
+      ],
+      "amenities": [
+        "Indoor swimming pool",
+        "Non-smoking rooms",
+        "Free parking",
+        "Facilities for disabled guests",
+        "Fitness center",
+        "Free WiFi",
+        "Room service",
+        "Restaurant",
+        "Spa",
+        "Bar"
+      ]
+    }
+  ]
+}

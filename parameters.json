@@ -1,0 +1,13 @@
+{
+  "enteredCity": "Hamilton",
+  "enteredState": "Ontario",
+  "enteredCountry": "Canada",
+  "startDate": "2023-11-29",
+  "endDate": "2023-12-03",
+  "noOfRooms": 2,
+  "totalNoOfAdults": 4,
+  "adultsArr": [
+    2,
+    2
+  ]
+}

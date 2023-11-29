@@ -1,0 +1,101 @@
+{
+  "Hamilton, Ontario, Canada": [
+    {
+      "name": "Premier Inn - Downtown Hamilton",
+      "stars5Rating": "3.0 star property",
+      "location": "Hamilton, Ontario, Canada",
+      "reviewScore": "Not found!",
+      "reviewMessage": "Not found!",
+      "numberOfReviews": "150 reviews",
+      "rooms": [
+        {
+          "roomDesc": "View all photos for Standard Single Queen",
+          "pricePerRoomPerNight": "CA $114",
+          "priceWithTax": "CA $1,151 total",
+          "roomFacilities": [
+            "Reserve now, pay later",
+            "Free WiFi",
+            "Free self parking",
+            "Sleeps 2",
+            "1 Queen Bed",
+            "Collect and Redeem"
+          ]
+        },
+        {
+          "roomDesc": "View all photos for Single Queen - Wheelchair Accessible",
+          "pricePerRoomPerNight": "CA $114",
+          "priceWithTax": "CA $1,151 total",
+          "roomFacilities": [
+            "Reserve now, pay later",
+            "Free WiFi",
+            "Free self parking",
+            "Sleeps 2",
+            "1 Queen Bed",
+            "Collect and Redeem"
+          ]
+        },
+        {
+          "roomDesc": "View all photos for Standard Double Queen",
+          "pricePerRoomPerNight": "CA $125",
+          "priceWithTax": "CA $1,261 total",
+          "roomFacilities": [
+            "Reserve now, pay later",
+            "Free WiFi",
+            "Free self parking",
+            "Sleeps 4",
+            "2 Queen Beds",
+            "Collect and Redeem"
+          ]
+        }
+      ],
+      "amenities": [
+        "Pet-friendly",
+        "Free parking",
+        "Free WiFi",
+        "Air conditioning",
+        "24/7 front desk",
+        "Non-smoking"
+      ]
+    },
+    {
+      "name": "Haven Inn",
+      "stars5Rating": "2.5 star property",
+      "location": "Hamilton, Ontario, Canada",
+      "reviewScore": "7.2",
+      "reviewMessage": "Good",
+      "numberOfReviews": "436 reviews",
+      "rooms": [
+        {
+          "roomDesc": "View all photos for Room, 1 King Bed, Non Smoking",
+          "pricePerRoomPerNight": "CA $95",
+          "priceWithTax": "CA $893 total",
+          "roomFacilities": [
+            "Free WiFi",
+            "Free self parking",
+            "Sleeps 2",
+            "1 King Bed",
+            "Collect and Redeem"
+          ]
+        },
+        {
+          "roomDesc": "View all photos for Room, 1 Queen Bed, Non Smoking",
+          "pricePerRoomPerNight": "Not found!",
+          "priceWithTax": "Not found!",
+          "roomFacilities": [
+            "Free WiFi",
+            "Free self parking",
+            "Sleeps 2",
+            "1 Queen Bed"
+          ]
+        }
+      ],
+      "amenities": [
+        "Free parking",
+        "Free WiFi",
+        "Air conditioning",
+        "24/7 front desk",
+        "Non-smoking"
+      ]
+    }
+  ]
+}

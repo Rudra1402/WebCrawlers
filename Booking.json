@@ -1,0 +1,795 @@
+{
+  "Hamilton, Ontario, Canada": [
+    {
+      "name": "Staybridge Suites Hamilton - Downtown, an IHG Hotel",
+      "stars5Rating": "3",
+      "location": "Hamilton, Ontario, Canada",
+      "reviewScore": "8.1",
+      "reviewMessage": "Very Good",
+      "numberOfReviews": "402 reviews",
+      "rooms": [
+        {
+          "roomDesc": "Room Selected at Check-In",
+          "pricePerRoomPerNight": "Not found!",
+          "priceWithTax": "Not found!",
+          "roomFacilities": [
+            "1 room",
+            "19 m²",
+            "Private kitchen",
+            "Private Bathroom",
+            "City view",
+            "Air conditioning",
+            "Patio",
+            "Dishwasher",
+            "Flat-screen TV",
+            "Terrace",
+            "Coffee machine",
+            "Free WiFi",
+            "More"
+          ]
+        }
+      ],
+      "amenities": [
+        "Indoor swimming pool",
+        "Non-smoking rooms",
+        "Fitness center",
+        "Room service",
+        "Private Parking",
+        "Free WiFi",
+        "Family rooms",
+        "Tea/Coffee Maker in All Rooms",
+        "Good Breakfast"
+      ]
+    },
+    {
+      "name": "Sandman Hotel Hamilton",
+      "stars5Rating": "3",
+      "location": "Hamilton, Ontario, Canada",
+      "reviewScore": "8.0",
+      "reviewMessage": "Very Good",
+      "numberOfReviews": "1,064 reviews",
+      "rooms": [
+        {
+          "roomDesc": "Standard Suite, 1 King Bed, Kitchen",
+          "pricePerRoomPerNight": "Not found!",
+          "priceWithTax": "Not found!",
+          "roomFacilities": [
+            "Private suite",
+            "40 m²",
+            "Private kitchen",
+            "Attached bathroom",
+            "Balcony",
+            "Air conditioning",
+            "Dishwasher",
+            "Flat-screen TV",
+            "Free WiFi",
+            "More"
+          ]
+        }
+      ],
+      "amenities": [
+        "Indoor swimming pool",
+        "Non-smoking rooms",
+        "Fitness center",
+        "Room service",
+        "2 restaurants",
+        "Free parking",
+        "Free WiFi",
+        "Family rooms",
+        "Tea/Coffee Maker in All Rooms"
+      ]
+    },
+    {
+      "name": "Four Points by Sheraton Hamilton - Stoney Creek",
+      "stars5Rating": "3",
+      "location": "Hamilton, Ontario, Canada",
+      "reviewScore": "7.9",
+      "reviewMessage": "Good",
+      "numberOfReviews": "162 reviews",
+      "rooms": [
+        {
+          "roomDesc": "Traditional King Room",
+          "pricePerRoomPerNight": "Not found!",
+          "priceWithTax": "Not found!",
+          "roomFacilities": []
+        }
+      ],
+      "amenities": [
+        "Indoor swimming pool",
+        "Non-smoking rooms",
+        "Fitness center",
+        "Restaurant",
+        "Free parking",
+        "Free WiFi",
+        "Bar",
+        "Breakfast"
+      ]
+    },
+    {
+      "name": "The SoMa Furnished Residences",
+      "stars5Rating": "4",
+      "location": "Hamilton, Ontario, Canada",
+      "reviewScore": "8.1",
+      "reviewMessage": "Very Good",
+      "numberOfReviews": "152 reviews",
+      "rooms": [
+        {
+          "roomDesc": "Two-Bedroom Apartment",
+          "pricePerRoomPerNight": "Not found!",
+          "priceWithTax": "Not found!",
+          "roomFacilities": []
+        }
+      ],
+      "amenities": [
+        "Non-smoking rooms",
+        "Free parking",
+        "Free WiFi",
+        "Family rooms"
+      ]
+    },
+    {
+      "name": "Hampton Inn By Hilton Hamilton",
+      "stars5Rating": "Not found!",
+      "location": "Hamilton, Ontario, Canada",
+      "reviewScore": "7.6",
+      "reviewMessage": "Good",
+      "numberOfReviews": "40 reviews",
+      "rooms": [
+        {
+          "roomDesc": "Queen Room with Two Queen Beds",
+          "pricePerRoomPerNight": "Not found!",
+          "priceWithTax": "Not found!",
+          "roomFacilities": []
+        }
+      ],
+      "amenities": [
+        "Indoor swimming pool",
+        "Non-smoking rooms",
+        "Fitness center",
+        "Private Parking",
+        "Free WiFi",
+        "Tea/Coffee Maker in All Rooms",
+        "Breakfast"
+      ]
+    },
+    {
+      "name": "Corktown - 4 Guest Apartment",
+      "stars5Rating": "3",
+      "location": "Hamilton, Ontario, Canada",
+      "reviewScore": "4.0",
+      "reviewMessage": "Disappointing",
+      "numberOfReviews": "2 reviews",
+      "rooms": [
+        {
+          "roomDesc": "Apartment",
+          "pricePerRoomPerNight": "Not found!",
+          "priceWithTax": "Not found!",
+          "roomFacilities": []
+        }
+      ],
+      "amenities": [
+        "Free WiFi"
+      ]
+    },
+    {
+      "name": "Premier Inn \u0026 Suites - Downtown Hamilton",
+      "stars5Rating": "3",
+      "location": "Hamilton, Ontario, Canada",
+      "reviewScore": "3.9",
+      "reviewMessage": "Poor",
+      "numberOfReviews": "213 reviews",
+      "rooms": [
+        {
+          "roomDesc": "Queen Room",
+          "pricePerRoomPerNight": "Not found!",
+          "priceWithTax": "Not found!",
+          "roomFacilities": []
+        }
+      ],
+      "amenities": [
+        "Non-smoking rooms",
+        "Free parking",
+        "Free WiFi"
+      ]
+    },
+    {
+      "name": "Chic Nature Hideaway in Paradise",
+      "stars5Rating": "Not found!",
+      "location": "Hamilton, Ontario, Canada",
+      "reviewScore": "",
+      "reviewMessage": "",
+      "numberOfReviews": "",
+      "rooms": [
+        {
+          "roomDesc": "Four-Bedroom House",
+          "pricePerRoomPerNight": "Not found!",
+          "priceWithTax": "Not found!",
+          "roomFacilities": []
+        }
+      ],
+      "amenities": [
+        "Free parking",
+        "Free WiFi",
+        "Family rooms"
+      ]
+    },
+    {
+      "name": "Stylish 3 BD/2BA in a quiet neighborhood",
+      "stars5Rating": "4",
+      "location": "Hamilton, Ontario, Canada",
+      "reviewScore": "1.0",
+      "reviewMessage": "Bad",
+      "numberOfReviews": "1 review",
+      "rooms": [
+        {
+          "roomDesc": "Apartment",
+          "pricePerRoomPerNight": "857",
+          "priceWithTax": "Not found!",
+          "roomFacilities": []
+        }
+      ],
+      "amenities": [
+        "Free parking",
+        "Free WiFi",
+        "Family rooms"
+      ]
+    },
+    {
+      "name": "Lakeview Villa - Enjoy luxury Vacation at its Best!",
+      "stars5Rating": "Not found!",
+      "location": "Hamilton, Ontario, Canada",
+      "reviewScore": "",
+      "reviewMessage": "",
+      "numberOfReviews": "",
+      "rooms": [
+        {
+          "roomDesc": "One-Bedroom Villa",
+          "pricePerRoomPerNight": "Not found!",
+          "priceWithTax": "Not found!",
+          "roomFacilities": [
+            "Entire villa",
+            "372 m²",
+            "Private kitchen",
+            "View",
+            "Air conditioning",
+            "Flat-screen TV",
+            "Free WiFi",
+            "Kitchen",
+            "Washing machine",
+            "Heating"
+          ]
+        }
+      ],
+      "amenities": [
+        "Free parking",
+        "Free WiFi"
+      ]
+    },
+    {
+      "name": "Rare Spacious 5 BR on the Beach!",
+      "stars5Rating": "Not found!",
+      "location": "Hamilton, Ontario, Canada",
+      "reviewScore": "",
+      "reviewMessage": "",
+      "numberOfReviews": "",
+      "rooms": [
+        {
+          "roomDesc": "Five-Bedroom House",
+          "pricePerRoomPerNight": "Not found!",
+          "priceWithTax": "Not found!",
+          "roomFacilities": [
+            "Entire vacation home",
+            "Private kitchen",
+            "Private Bathroom",
+            "Garden view",
+            "Air conditioning",
+            "Dishwasher",
+            "Flat-screen TV",
+            "Barbecue",
+            "Terrace",
+            "Coffee machine",
+            "Free WiFi",
+            "Free toiletries",
+            "Kitchen",
+            "Safe",
+            "Bidet",
+            "Washing machine",
+            "Streaming service (like Netflix)",
+            "Toilet",
+            "Sofa",
+            "Bathtub or shower",
+            "Hardwood or parquet floors",
+            "Towels",
+            "Linens",
+            "Socket near the bed",
+            "Cleaning products",
+            "Tile/Marble floor",
+            "Desk",
+            "High chair",
+            "Sitting area",
+            "Private entrance",
+            "TV",
+            "Refrigerator",
+            "Tea/Coffee maker",
+            "Iron",
+            "Microwave",
+            "Heating",
+            "Hairdryer",
+            "Kitchenware",
+            "Wake-up service/Alarm clock",
+            "Electric kettle",
+            "Outdoor furniture",
+            "Outdoor dining area",
+            "Alarm clock",
+            "Dryer",
+            "Wardrobe or closet",
+            "Oven",
+            "Stovetop",
+            "Toaster",
+            "Dining area",
+            "Dining table",
+            "Detached",
+            "Clothes rack",
+            "Fold-up bed",
+            "Drying rack for clothing",
+            "Toilet paper",
+            "Board games/puzzles",
+            "Air purifiers",
+            "Hand sanitizer",
+            "Carbon monoxide detector"
+          ]
+        }
+      ],
+      "amenities": [
+        "Non-smoking rooms",
+        "Beachfront",
+        "Free parking",
+        "Free WiFi",
+        "Family rooms"
+      ]
+    },
+    {
+      "name": "Sheraton Hamilton Hotel",
+      "stars5Rating": "3",
+      "location": "Hamilton, Ontario, Canada",
+      "reviewScore": "7.9",
+      "reviewMessage": "Good",
+      "numberOfReviews": "409 reviews",
+      "rooms": [
+        {
+          "roomDesc": "Queen Room with Two Queen Beds",
+          "pricePerRoomPerNight": "Not found!",
+          "priceWithTax": "Not found!",
+          "roomFacilities": [
+            "30 m²",
+            "Air conditioning",
+            "Attached bathroom",
+            "Flat-screen TV",
+            "More"
+          ]
+        }
+      ],
+      "amenities": [
+        "Indoor swimming pool",
+        "Non-smoking rooms",
+        "Fitness center",
+        "Room service",
+        "2 restaurants",
+        "Facilities for disabled guests",
+        "Parking on site",
+        "Tea/Coffee Maker in All Rooms",
+        "Bar",
+        "Breakfast"
+      ]
+    },
+    {
+      "name": "GLOBALSTAY Waterfront 20Ppl 5 Bedroom Townhouse Hot tub Sauna",
+      "stars5Rating": "3",
+      "location": "Hamilton, Ontario, Canada",
+      "reviewScore": "7.2",
+      "reviewMessage": "Good",
+      "numberOfReviews": "14 reviews",
+      "rooms": [
+        {
+          "roomDesc": "Five-Bedroom House",
+          "pricePerRoomPerNight": "809",
+          "priceWithTax": "CAD 1172",
+          "roomFacilities": []
+        }
+      ],
+      "amenities": [
+        "Non-smoking rooms",
+        "Fitness center",
+        "Free parking",
+        "Free WiFi",
+        "Family rooms"
+      ]
+    },
+    {
+      "name": "Brand new 2 Bedroom plus Loft in Hamilton",
+      "stars5Rating": "Not found!",
+      "location": "Hamilton, Ontario, Canada",
+      "reviewScore": "10",
+      "reviewMessage": "Exceptional",
+      "numberOfReviews": "1 review",
+      "rooms": [
+        {
+          "roomDesc": "Three-Bedroom Apartment",
+          "pricePerRoomPerNight": "Not found!",
+          "priceWithTax": "Not found!",
+          "roomFacilities": [
+            "Entire apartment",
+            "139 m²",
+            "Private kitchen",
+            "Attached bathroom",
+            "Balcony",
+            "View",
+            "Air conditioning",
+            "Flat-screen TV",
+            "Free WiFi",
+            "Kitchen",
+            "Washing machine"
+          ]
+        }
+      ],
+      "amenities": [
+        "Non-smoking rooms",
+        "Free parking",
+        "Free WiFi",
+        "Family rooms"
+      ]
+    },
+    {
+      "name": "Modern 1BR Apt - Corktown Hamilton",
+      "stars5Rating": "3",
+      "location": "Hamilton, Ontario, Canada",
+      "reviewScore": "8.2",
+      "reviewMessage": "Very Good",
+      "numberOfReviews": "6 reviews",
+      "rooms": [
+        {
+          "roomDesc": "Apartment",
+          "pricePerRoomPerNight": "Not found!",
+          "priceWithTax": "Not found!",
+          "roomFacilities": []
+        }
+      ],
+      "amenities": [
+        "Non-smoking rooms",
+        "Family rooms"
+      ]
+    },
+    {
+      "name": "Hamilton Mountain Plaza - King Bed - Free Parking",
+      "stars5Rating": "4",
+      "location": "Hamilton, Ontario, Canada",
+      "reviewScore": "8.5",
+      "reviewMessage": "Very Good",
+      "numberOfReviews": "32 reviews",
+      "rooms": [
+        {
+          "roomDesc": "Apartment - Ground Floor",
+          "pricePerRoomPerNight": "Not found!",
+          "priceWithTax": "Not found!",
+          "roomFacilities": []
+        }
+      ],
+      "amenities": [
+        "Non-smoking rooms",
+        "Free parking",
+        "Free WiFi",
+        "Family rooms"
+      ]
+    },
+    {
+      "name": "Cozy 5 bedroom close to trails \u0026 mountain scenery",
+      "stars5Rating": "Not found!",
+      "location": "Hamilton, Ontario, Canada",
+      "reviewScore": "",
+      "reviewMessage": "",
+      "numberOfReviews": "",
+      "rooms": [
+        {
+          "roomDesc": "Five-Bedroom House",
+          "pricePerRoomPerNight": "573",
+          "priceWithTax": "CAD 723",
+          "roomFacilities": [
+            "Entire vacation home",
+            "186 m²",
+            "Private kitchen",
+            "Private Bathroom",
+            "Air conditioning",
+            "Dishwasher",
+            "Flat-screen TV",
+            "Coffee machine",
+            "Free WiFi",
+            "Free toiletries",
+            "Kitchen",
+            "Washing machine",
+            "Streaming service (like Netflix)",
+            "Toilet",
+            "Sofa",
+            "Fireplace",
+            "Bathtub or shower",
+            "Hardwood or parquet floors",
+            "Towels",
+            "Linens",
+            "Socket near the bed",
+            "Cleaning products",
+            "Tile/Marble floor",
+            "Desk",
+            "High chair",
+            "Sitting area",
+            "Private entrance",
+            "TV",
+            "Refrigerator",
+            "Ironing facilities",
+            "Tea/Coffee maker",
+            "Iron",
+            "Microwave",
+            "Heating",
+            "Hairdryer",
+            "Kitchenware",
+            "Fan",
+            "Electric kettle",
+            "Cable channels",
+            "Dryer",
+            "Wardrobe or closet",
+            "Oven",
+            "Toaster",
+            "Dining area",
+            "Dining table",
+            "Detached",
+            "Toilet paper",
+            "Board games/puzzles",
+            "Carbon monoxide detector",
+            "Hand sanitizer"
+          ]
+        }
+      ],
+      "amenities": [
+        "Non-smoking rooms",
+        "Free parking",
+        "Free WiFi",
+        "Family rooms"
+      ]
+    },
+    {
+      "name": "Hamilton Mountain Plaza - King Bed - Main Floor",
+      "stars5Rating": "4",
+      "location": "Hamilton, Ontario, Canada",
+      "reviewScore": "",
+      "reviewMessage": "",
+      "numberOfReviews": "",
+      "rooms": [
+        {
+          "roomDesc": "Two-Bedroom Apartment",
+          "pricePerRoomPerNight": "Not found!",
+          "priceWithTax": "Not found!",
+          "roomFacilities": [
+            "79 m²",
+            "Private kitchen",
+            "Garden view",
+            "Mountain view",
+            "Air conditioning",
+            "Patio",
+            "Dishwasher",
+            "Flat-screen TV",
+            "Barbecue",
+            "Coffee machine",
+            "Free WiFi",
+            "Free toiletries",
+            "Bathrobe",
+            "Kitchen",
+            "Washing machine",
+            "Streaming service (like Netflix)",
+            "Toilet",
+            "Sofa",
+            "Bathtub or shower",
+            "Towels",
+            "Linens",
+            "Cleaning products",
+            "Desk",
+            "Sitting area",
+            "Video games",
+            "Video",
+            "Private entrance",
+            "TV",
+            "Refrigerator",
+            "Tea/Coffee maker",
+            "Iron",
+            "Radio",
+            "Microwave",
+            "Heating",
+            "Hairdryer",
+            "Kitchenware",
+            "Kitchenette",
+            "Fan",
+            "Electric kettle",
+            "Outdoor furniture",
+            "Outdoor dining area",
+            "Alarm clock",
+            "Laptop safe",
+            "Dryer",
+            "Wardrobe or closet",
+            "Oven",
+            "Stovetop",
+            "Toaster",
+            "Game console",
+            "Dining area",
+            "Dining table",
+            "Entire unit located on ground floor",
+            "Detached",
+            "Private apartment in building",
+            "Toilet paper",
+            "Child safety socket covers",
+            "Board games/puzzles",
+            "Books, DVDs or music for children",
+            "Sofa bed",
+            "Entire unit wheelchair accessible",
+            "Hand sanitizer",
+            "Carbon monoxide detector"
+          ]
+        }
+      ],
+      "amenities": [
+        "Free parking",
+        "Free WiFi",
+        "Family rooms"
+      ]
+    },
+    {
+      "name": "Courtyard by Marriott Hamilton",
+      "stars5Rating": "4",
+      "location": "Hamilton, Ontario, Canada",
+      "reviewScore": "8.1",
+      "reviewMessage": "Very Good",
+      "numberOfReviews": "351 reviews",
+      "rooms": [
+        {
+          "roomDesc": "King Suite with Sofa Bed and Spa Bath",
+          "pricePerRoomPerNight": "Not found!",
+          "priceWithTax": "Not found!",
+          "roomFacilities": []
+        }
+      ],
+      "amenities": [
+        "Indoor swimming pool",
+        "Non-smoking rooms",
+        "Fitness center",
+        "Restaurant",
+        "Facilities for disabled guests",
+        "Free parking",
+        "Tea/Coffee Maker in All Rooms",
+        "Bar",
+        "Breakfast"
+      ]
+    },
+    {
+      "name": "Modern 1BR Condo Unit - King Bed - James Street",
+      "stars5Rating": "3",
+      "location": "Hamilton, Ontario, Canada",
+      "reviewScore": "7.5",
+      "reviewMessage": "Good",
+      "numberOfReviews": "2 reviews",
+      "rooms": [
+        {
+          "roomDesc": "Apartment",
+          "pricePerRoomPerNight": "Not found!",
+          "priceWithTax": "Not found!",
+          "roomFacilities": []
+        }
+      ],
+      "amenities": [
+        "Non-smoking rooms",
+        "Private Parking",
+        "Free WiFi",
+        "Family rooms"
+      ]
+    },
+    {
+      "name": "Cozy nest basement unit",
+      "stars5Rating": "3",
+      "location": "Hamilton, Ontario, Canada",
+      "reviewScore": "8.8",
+      "reviewMessage": "Excellent",
+      "numberOfReviews": "17 reviews",
+      "rooms": [
+        {
+          "roomDesc": "One-Bedroom Apartment",
+          "pricePerRoomPerNight": "756",
+          "priceWithTax": "Not found!",
+          "roomFacilities": []
+        }
+      ],
+      "amenities": [
+        "Non-smoking rooms",
+        "Free parking",
+        "Free WiFi",
+        "Family rooms"
+      ]
+    },
+    {
+      "name": "2 Bedroom Home Away From Home",
+      "stars5Rating": "Not found!",
+      "location": "Hamilton, Ontario, Canada",
+      "reviewScore": "9.5",
+      "reviewMessage": "Exceptional",
+      "numberOfReviews": "4 reviews",
+      "rooms": [
+        {
+          "roomDesc": "Two-Bedroom Apartment",
+          "pricePerRoomPerNight": "Not found!",
+          "priceWithTax": "Not found!",
+          "roomFacilities": []
+        }
+      ],
+      "amenities": [
+        "Free parking",
+        "Free WiFi"
+      ]
+    },
+    {
+      "name": "Apartment with Balcony close to Downtown",
+      "stars5Rating": "3",
+      "location": "Hamilton, Ontario, Canada",
+      "reviewScore": "",
+      "reviewMessage": "",
+      "numberOfReviews": "",
+      "rooms": [
+        {
+          "roomDesc": "Apartment",
+          "pricePerRoomPerNight": "Not found!",
+          "priceWithTax": "Not found!",
+          "roomFacilities": []
+        }
+      ],
+      "amenities": [
+        "Non-smoking rooms",
+        "Free parking",
+        "Free WiFi",
+        "Family rooms"
+      ]
+    },
+    {
+      "name": "Lakefront cheerful 2 bedroom cottage house",
+      "stars5Rating": "Not found!",
+      "location": "Hamilton, Ontario, Canada",
+      "reviewScore": "",
+      "reviewMessage": "",
+      "numberOfReviews": "",
+      "rooms": [
+        {
+          "roomDesc": "Two-Bedroom Villa",
+          "pricePerRoomPerNight": "Not found!",
+          "priceWithTax": "Not found!",
+          "roomFacilities": []
+        }
+      ],
+      "amenities": [
+        "Free parking",
+        "Free WiFi"
+      ]
+    },
+    {
+      "name": "3-bedroom apartment midway between Toronto and Niagara Falls, king bed, spacious patio",
+      "stars5Rating": "3",
+      "location": "Hamilton, Ontario, Canada",
+      "reviewScore": "7.0",
+      "reviewMessage": "Good",
+      "numberOfReviews": "3 reviews",
+      "rooms": [
+        {
+          "roomDesc": "Three-Bedroom Apartment",
+          "pricePerRoomPerNight": "Not found!",
+          "priceWithTax": "Not found!",
+          "roomFacilities": []
+        }
+      ],
+      "amenities": [
+        "Free parking",
+        "Free WiFi"
+      ]
+    }
+  ]
+}
