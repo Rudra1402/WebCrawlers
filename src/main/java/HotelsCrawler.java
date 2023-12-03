@@ -374,7 +374,7 @@ public class HotelsCrawler {
 
         WebDriverWait wait = new WebDriverWait(driver, Duration.ofSeconds(45));
 
-        if(!site.equals("booking")) {
+        if(site.equals("hotels")) {
             wait.until(tempDriver -> {
                 String currentUrl = tempDriver.getCurrentUrl();
                 return currentUrl != null && !currentUrl.equals(url);
@@ -385,21 +385,10 @@ public class HotelsCrawler {
             System.out.println("Connected URL: " + currURL);
         }
 
-        WebElement btn = wait.until(ExpectedConditions.presenceOfElementLocated(By.tagName("button")));
-        if (btn != null) {
-            String btnText = btn.getText();
-            if (site.equals("expedia")) {
-                while (btnText.equals("Try again")) {
-                    btn.click();
-                    btn = wait.until(ExpectedConditions.presenceOfElementLocated(By.tagName("button")));
-                    btnText = btn.getText();
-                }
-            }
-        }
 
         wait = new WebDriverWait(driver, Duration.ofSeconds(45));
 
-        if (!site.equals("booking")) {
+        if (site.equals("hotels")) {
             try {
                 WebElement searchResultSection = wait.until(ExpectedConditions.presenceOfElementLocated(By.cssSelector("[data-stid='section-results']")));
                 WebElement listingSection = searchResultSection.findElement(By.cssSelector("[data-stid='property-listing-results']"));
@@ -426,7 +415,8 @@ public class HotelsCrawler {
             } catch (Exception e) {
                 e.printStackTrace();
             }
-        } else {
+        }
+        if(site.equals("booking")){
             try {
                 List<WebElement> cards = driver.findElements(By.cssSelector("[data-testid='property-card-container']"));
 
@@ -447,7 +437,6 @@ public class HotelsCrawler {
                 e.printStackTrace();
             }
         }
-
         driver.quit();
     }
 
@@ -466,6 +455,7 @@ public class HotelsCrawler {
             List<HotelData> cityHotels = existingMap.getOrDefault(city, new ArrayList<>());
             cityHotels.add(hotelData);
             existingMap.put(city, cityHotels);
+
             Files.write(Paths.get(filePath), gson.toJson(existingMap).getBytes());
         } catch (IOException e) {
             e.printStackTrace();
@@ -546,7 +536,7 @@ public class HotelsCrawler {
 
         String cityInJSON = cityName + ", " + provinceState + ", " + country;
 
-        String filePath = "Hotels.json";
+        String filePath = "Site_Hotels_Data.json";
         File file = new File(filePath);
         if (!file.exists()) {
             try {
@@ -561,22 +551,7 @@ public class HotelsCrawler {
         String baseURL = "https://ca.hotels.com/Hotel-Search?"+roomAdultsQuery+"&destination="+cityName+"%2C"+provinceState+"%2C"+country+"&endDate="+endDate+"&sort=RECOMMENDED&startDate="+startDate;
         crawl(baseURL, cityInJSON, filePath, "hotels");
 
-        filePath = "Expedia.json";
-        file = new File(filePath);
-        if (!file.exists()) {
-            try {
-                if (file.createNewFile()) {
-                    System.out.println("File created: " + filePath);
-                }
-            } catch (IOException e) {
-                e.printStackTrace();
-            }
-        }
-
-        baseURL = "https://www.expedia.ca/Hotel-Search?"+roomAdultsQuery+"&destination="+cityName+"%2C"+provinceState+"%2C"+country+"&endDate="+endDate+"&sort=RECOMMENDED&startDate="+startDate;
-        crawl(baseURL, cityInJSON, filePath, "expedia");
-
-        filePath = "Booking.json";
+        filePath = "Site_Booking_Data.json";
         file = new File(filePath);
         if (!file.exists()) {
             try {
